@@ -1,0 +1,29 @@
+{
+    "product_link": "https://www.mediaexpert.pl/gaming/playstation-5/konsole-ps5/konsola-sony-ps5",
+    "is_company_purchase": false,
+    "company_data": {
+        "company_name": "",
+        "nip": "",
+        "mail": "",
+        "street": "",
+        "house_number": "",
+        "apartment_number": "",
+        "postcode": "",
+        "city": "",
+        "phone_number": ""
+    },
+    "personal_data": {
+        "first_name": "",
+        "last_name": "",
+        "mail": "",
+        "street": "",
+        "house_number": "",
+        "apartment_number": "",
+        "postcode": "",
+        "city": "",
+        "phone_number": ""
+    },
+    "check_time_interval": 60,
+    "wait_time": 600,
+    "geckodriver_path": ""
+}

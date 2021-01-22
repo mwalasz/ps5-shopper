@@ -1,0 +1,3 @@
+pip install selenium APScheduler requests-html
+
+https://github.com/mozilla/geckodriver/releases

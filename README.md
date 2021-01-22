@@ -43,7 +43,7 @@ You can either perform company or personal purchase. To specify on which method 
 - `company_data` if `is_company_purchase = true`
 - `personal_data` if `is_company_purchase = false`.
 
-`product_link` variable stands for the product that you are aiming for. By default, it's link for the hero mentioned in repo's tite :innocent: However, you can buy insert here link for any product that you want to possess.
+`product_link` variable stands for the product that you are aiming for. By default, it's link for the hero mentioned in repo's tite :innocent: However, you can insert here link for any product that you want to buy.
 
 By specyfing `check_time_interval` you can choose the time intervals between consecutive product availability checks.
 
